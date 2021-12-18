@@ -1,0 +1,129 @@
+2021-12-19 00:00:58 | [INFO]    | Discordia 2.9.1
+2021-12-19 00:00:58 | [INFO]    | Connecting to Discord...
+2021-12-19 00:01:00 | [INFO]    | Authenticated as Sobo Manager#4397
+2021-12-19 00:01:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-12-19 00:01:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-12-19 00:01:01 | [INFO]    | Shard 0 : Received HELLO
+2021-12-19 00:01:01 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2021-12-19 00:01:01 | [INFO]    | Shard 0 : Disconnected
+2021-12-19 00:01:01 | [INFO]    | Shard 0 : Reconnecting after 924 ms...
+2021-12-19 00:01:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-12-19 00:01:02 | [INFO]    | Shard 0 : Received HELLO
+2021-12-19 00:01:10 | [INFO]    | Discordia 2.9.1
+2021-12-19 00:01:10 | [INFO]    | Connecting to Discord...
+2021-12-19 00:01:11 | [INFO]    | Authenticated as Sobo Manager#4397
+2021-12-19 00:01:11 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-12-19 00:01:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-12-19 00:01:11 | [INFO]    | Shard 0 : Received HELLO
+2021-12-19 00:01:11 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2021-12-19 00:01:11 | [INFO]    | Shard 0 : Disconnected
+2021-12-19 00:01:11 | [INFO]    | Shard 0 : Reconnecting after 923 ms...
+2021-12-19 00:01:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-12-19 00:01:13 | [INFO]    | Shard 0 : Received HELLO
+2021-12-19 00:01:20 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2021-12-19 00:01:20 | [INFO]    | Shard 0 : Disconnected
+2021-12-19 00:01:20 | [INFO]    | Shard 0 : Reconnecting after 2064 ms...
+2021-12-19 00:01:22 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-12-19 00:01:22 | [INFO]    | Shard 0 : Received HELLO
+2021-12-19 00:01:26 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2021-12-19 00:01:26 | [INFO]    | Shard 0 : Disconnected
+2021-12-19 00:01:26 | [INFO]    | Shard 0 : Reconnecting after 3658 ms...
+2021-12-19 00:01:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-12-19 00:01:32 | [INFO]    | Shard 0 : Received HELLO
+2021-12-19 00:01:34 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2021-12-19 00:01:34 | [INFO]    | Shard 0 : Disconnected
+2021-12-19 00:01:34 | [INFO]    | Shard 0 : Reconnecting after 7884 ms...
+2021-12-19 00:01:42 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-12-19 00:01:42 | [INFO]    | Shard 0 : Received HELLO
+2021-12-19 00:01:43 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2021-12-19 00:01:43 | [INFO]    | Shard 0 : Disconnected
+2021-12-19 00:01:43 | [INFO]    | Shard 0 : Reconnecting after 14696 ms...
+2021-12-19 00:01:58 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-12-19 00:01:58 | [INFO]    | Shard 0 : Received HELLO
+2021-12-19 00:01:58 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2021-12-19 00:01:58 | [INFO]    | Shard 0 : Disconnected
+2021-12-19 00:01:58 | [INFO]    | Shard 0 : Reconnecting after 30578 ms...
+2021-12-19 00:03:09 | [INFO]    | Discordia 2.9.1
+2021-12-19 00:03:09 | [INFO]    | Connecting to Discord...
+2021-12-19 00:03:10 | [INFO]    | Authenticated as Sobo Manager#4397
+2021-12-19 00:03:10 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-12-19 00:03:10 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-12-19 00:03:10 | [INFO]    | Shard 0 : Received HELLO
+2021-12-19 00:03:11 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2021-12-19 00:03:11 | [INFO]    | Shard 0 : Disconnected
+2021-12-19 00:03:11 | [INFO]    | Shard 0 : Reconnecting after 1042 ms...
+2021-12-19 00:03:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-12-19 00:03:12 | [INFO]    | Shard 0 : Received HELLO
+2021-12-19 00:03:18 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2021-12-19 00:03:18 | [INFO]    | Shard 0 : Disconnected
+2021-12-19 00:03:18 | [INFO]    | Shard 0 : Reconnecting after 1966 ms...
+2021-12-19 00:03:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-12-19 00:03:20 | [INFO]    | Shard 0 : Received HELLO
+2021-12-19 00:03:26 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2021-12-19 00:03:26 | [INFO]    | Shard 0 : Disconnected
+2021-12-19 00:03:26 | [INFO]    | Shard 0 : Reconnecting after 3736 ms...
+2021-12-19 00:04:59 | [INFO]    | Discordia 2.9.1
+2021-12-19 00:04:59 | [INFO]    | Connecting to Discord...
+2021-12-19 00:05:00 | [INFO]    | Authenticated as Sobo Manager#4397
+2021-12-19 00:05:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-12-19 00:05:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-12-19 00:05:00 | [INFO]    | Shard 0 : Received HELLO
+2021-12-19 00:05:00 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2021-12-19 00:05:00 | [INFO]    | Shard 0 : Disconnected
+2021-12-19 00:05:00 | [INFO]    | Shard 0 : Reconnecting after 981 ms...
+2021-12-19 00:05:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-12-19 00:05:02 | [INFO]    | Shard 0 : Received HELLO
+2021-12-19 00:05:08 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2021-12-19 00:05:08 | [INFO]    | Shard 0 : Disconnected
+2021-12-19 00:05:08 | [INFO]    | Shard 0 : Reconnecting after 2067 ms...
+2021-12-19 00:05:52 | [INFO]    | Discordia 2.9.1
+2021-12-19 00:05:52 | [INFO]    | Connecting to Discord...
+2021-12-19 00:05:54 | [INFO]    | Authenticated as Sobo Manager#4397
+2021-12-19 00:05:54 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-12-19 00:05:54 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-12-19 00:05:54 | [INFO]    | Shard 0 : Received HELLO
+2021-12-19 00:05:55 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2021-12-19 00:05:55 | [INFO]    | Shard 0 : Disconnected
+2021-12-19 00:05:55 | [INFO]    | Shard 0 : Reconnecting after 927 ms...
+2021-12-19 00:08:05 | [INFO]    | Discordia 2.9.1
+2021-12-19 00:08:05 | [INFO]    | Connecting to Discord...
+2021-12-19 00:08:06 | [INFO]    | Authenticated as Sobo Manager#4397
+2021-12-19 00:08:06 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-12-19 00:08:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-12-19 00:08:06 | [INFO]    | Shard 0 : Received HELLO
+2021-12-19 00:08:06 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2021-12-19 00:08:06 | [INFO]    | Shard 0 : Disconnected
+2021-12-19 00:08:06 | [INFO]    | Shard 0 : Reconnecting after 978 ms...
+2021-12-19 00:08:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-12-19 00:08:08 | [INFO]    | Shard 0 : Received HELLO
+2021-12-19 00:08:55 | [INFO]    | Discordia 2.9.1
+2021-12-19 00:08:55 | [INFO]    | Connecting to Discord...
+2021-12-19 00:08:57 | [INFO]    | Authenticated as Sobo Manager#4397
+2021-12-19 00:08:57 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-12-19 00:08:58 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-12-19 00:08:58 | [INFO]    | Shard 0 : Received HELLO
+2021-12-19 00:08:58 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2021-12-19 00:08:58 | [INFO]    | Shard 0 : Disconnected
+2021-12-19 00:08:58 | [INFO]    | Shard 0 : Reconnecting after 991 ms...
+2021-12-19 00:09:33 | [INFO]    | Discordia 2.9.1
+2021-12-19 00:09:33 | [INFO]    | Connecting to Discord...
+2021-12-19 00:09:33 | [INFO]    | Authenticated as Sobo Manager#4397
+2021-12-19 00:09:33 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-12-19 00:09:33 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-12-19 00:09:33 | [INFO]    | Shard 0 : Received HELLO
+2021-12-19 00:09:34 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2021-12-19 00:09:34 | [INFO]    | Shard 0 : Disconnected
+2021-12-19 00:09:34 | [INFO]    | Shard 0 : Reconnecting after 913 ms...
+2021-12-19 00:09:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-12-19 00:09:35 | [INFO]    | Shard 0 : Received HELLO
+2021-12-19 00:10:40 | [INFO]    | Discordia 2.9.1
+2021-12-19 00:10:40 | [INFO]    | Connecting to Discord...
+2021-12-19 00:10:41 | [INFO]    | Authenticated as Sobo Manager#4397
+2021-12-19 00:10:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-12-19 00:10:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-12-19 00:10:41 | [INFO]    | Shard 0 : Received HELLO
+2021-12-19 00:10:41 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2021-12-19 00:10:41 | [INFO]    | Shard 0 : Disconnected
+2021-12-19 00:10:41 | [INFO]    | Shard 0 : Reconnecting after 1095 ms...
+2021-12-19 00:10:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-12-19 00:10:43 | [INFO]    | Shard 0 : Received HELLO
